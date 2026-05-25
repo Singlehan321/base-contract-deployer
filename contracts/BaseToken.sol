@@ -8,4 +8,6 @@ contract BaseToken {
 
     string public symbol = "BASE";
 
+    uint256 public totalSupply = 1000000;
+
 }
