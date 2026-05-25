@@ -6,4 +6,6 @@ contract BaseToken {
 
     string public name = "Base Token";
 
+    string public symbol = "BASE";
+
 }
