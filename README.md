@@ -26,3 +26,6 @@ A professional toolkit for deploying smart contracts on Base.
 
 Contract Address:
 `0x1234567890abcdef`
+
+Explorer:
+https://basescan.org
