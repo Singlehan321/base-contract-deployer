@@ -27,6 +27,14 @@ A professional toolkit for deploying smart contracts on Base.
 Contract Address:
 `0x1234567890abcdef`
 
+## Deploy Steps
+
+- Open Remix IDE
+- Compile contract
+- Connect MetaMask
+- Select Base network
+- Deploy contract
+
 Explorer:
 https://basescan.org
 
