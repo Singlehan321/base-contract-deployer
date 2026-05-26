@@ -21,3 +21,8 @@ A professional toolkit for deploying smart contracts on Base.
 2. Install dependencies
 3. Configure RPC
 4. Deploy contracts
+
+## Deployment
+
+Contract Address:
+`0x1234567890abcdef`
