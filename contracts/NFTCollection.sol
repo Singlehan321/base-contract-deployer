@@ -6,5 +6,6 @@ contract NFTCollection {
 
 string public collectionName = "Base NFT";
 string public collectionSymbol = "BNFT";
+uint256 public totalMinted;
 
 }
