@@ -8,4 +8,7 @@ string public collectionName = "Base NFT";
 string public collectionSymbol = "BNFT";
 uint256 public totalMinted;
 
+function mint() public {
+    totalMinted += 1;
+}
 }
