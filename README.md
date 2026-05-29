@@ -10,7 +10,6 @@ A professional toolkit for deploying smart contracts on Base.
 
 
 ## Supported Networks
-
 - Base Mainnet
 - Base Sepolia
 
