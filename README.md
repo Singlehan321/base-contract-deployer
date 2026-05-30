@@ -13,8 +13,8 @@ A professional toolkit for deploying smart contracts on Base.
 - Base Mainnet
 - Base Sepolia
 
-## Installation
 
+## Installation
 1. Clone repository
 2. Install dependencies
 3. Configure RPC
