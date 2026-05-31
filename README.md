@@ -22,7 +22,6 @@ A professional toolkit for deploying smart contracts on Base.
 
 
 ## Deployment
-
 Contract Address:
 `0x1234567890abcdef`
 
