@@ -27,7 +27,6 @@ Contract Address:
 
 
 ## Deploy Steps
-
 - Open Remix IDE
 - Compile contract
 - Connect MetaMask
