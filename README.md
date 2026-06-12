@@ -39,7 +39,6 @@ https://basescan.org
 
 ## Gas Optimization
 
-
 Contracts are optimized for lower gas fees on Base.
 
 ## NFT Features
