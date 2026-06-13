@@ -41,6 +41,7 @@ https://basescan.org
 Contracts are optimized for lower gas fees on Base.
 
 ## NFT Features
+
 - NFT minting
 - Collection tracking
 - Base compatible
