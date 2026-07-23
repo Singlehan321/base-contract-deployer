@@ -6,6 +6,7 @@ A professional toolkit for deploying smart contracts on Base.
 - Base RPC integration
 - NFT deployment
 - Token deployment
+- API
 - Contract verification
 
 
