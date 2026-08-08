@@ -1,5 +1,4 @@
 ##base mainnet
-
 BASE_MAINNET_RPC = "https://mainnet.base.org"
 
 
