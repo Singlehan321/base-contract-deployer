@@ -1,5 +1,5 @@
 ##deply a NFT
-##function
+##functions
 
 deploy_nft {
 
