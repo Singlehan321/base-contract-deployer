@@ -4,6 +4,5 @@ from scripts.deploy_token import deploy_token
 function()
 deploy_token()
 
-
 ##display result
 print(deploy_token())
