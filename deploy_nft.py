@@ -1,4 +1,3 @@
-
 ##deply a NFT
 #functions
 
