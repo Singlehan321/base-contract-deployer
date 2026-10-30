@@ -1,4 +1,4 @@
-#base mainnet
+##base mainnet
 BASE_MAINNET_RPC = "https://mainnet.base.org"
 
 ##Base Sepolia
